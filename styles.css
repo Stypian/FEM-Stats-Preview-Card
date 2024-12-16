@@ -165,6 +165,10 @@
           height: 100%;
         }
 
+         .statsPrev__inner {
+          margin: 0;
+        }
+        
         .statsPrev__bg {
           text-align: center;
           height: auto;
@@ -206,7 +210,6 @@
 
         .statsPrev__inner {
           width: 70%;
-          margin: 0;
         }
 
         .statsPrev__right-inner {
